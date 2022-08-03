@@ -2,7 +2,7 @@
 
 #### Project Archive
 
-- Image registration between shapes separated by diffeomorphism via Deep Neural ODEs mimicking LDDMMs
+- [Image registration between shapes separated by diffeomorphism via Deep Neural ODEs mimicking LDDMMs](https://github.com/baubels/diffeomorphic_registration)
 - [Neural nets implemented from scratch using NumPy](https://github.com/baubels/numpynets)
 - [Quantised stock price prediction on microcontrollers with tensorflow lite](https://github.com/baubels/latency_champ)
 - [Portable farmer crop yield prediction using learnable dimensionality reductions](https://github.com/baubels/illinois-crop-yield)

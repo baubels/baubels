@@ -2,10 +2,10 @@
 
 #### Project Archive
 
-- Neural nets implemented from scratch using NumPy ()
-- Quantised stock price prediction on microcontrollers with tensorflow lite ()
-- Learnable time-series dimensionality reductions with application to farmer crop yield prediction ()
-- Learnable time-series dimensionality reductions with application to tropical cyclones ()
+- [Neural nets implemented from scratch using NumPy](https://github.com/baubels/numpynets)
+- [Quantised stock price prediction on microcontrollers with tensorflow lite](https://github.com/baubels/latency_champ)
+- [Portable farmer crop yield prediction using learnable dimensionality reductions](https://github.com/baubels/illinois-crop-yield)
+- [Learnable time-series dimensionality reductions with application to tropical cyclones](https://github.com/baubels/stuod_cyclone)
 
 
 <!--

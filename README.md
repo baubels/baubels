@@ -1,5 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baubels.visitor-badge&left_color=green&left_text=Visitor%20Number)
 
+#### Project Archive
+
+- Neural nets implemented from scratch using NumPy ()
+- Quantised stock price prediction with neural nets ()
+- Supervised learning with unsupervised learning help ()
+
 
 <!--
 **baubels/baubels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

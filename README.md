@@ -3,8 +3,9 @@
 #### Project Archive
 
 - Neural nets implemented from scratch using NumPy ()
-- Quantised stock price prediction with neural nets ()
-- Supervised learning with unsupervised learning help ()
+- Quantised stock price prediction on microcontrollers with tensorflow lite ()
+- Learnable time-series dimensionality reductions with application to farmer crop yield prediction ()
+- Learnable time-series dimensionality reductions with application to tropical cyclones ()
 
 
 <!--

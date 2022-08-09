@@ -9,7 +9,6 @@
 - [Portable farmer crop yield prediction using learnable dimensionality reductions](https://github.com/baubels/illinois-crop-yield)
 - [Learnable time-series dimensionality reductions with application to tropical cyclones](https://github.com/baubels/stuod_cyclone)
 
-
 <!--
 **baubels/baubels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

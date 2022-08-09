@@ -2,6 +2,7 @@
 
 #### Project Archive
 
+- [3D non-order specified image registration between shapes separated by diffeomorphisms via Resnet-LDDMMs](https://github.com/baubels/3d_diffeomorphic_nnets)
 - [Image registration between shapes separated by diffeomorphisms via Deep Neural ODEs mimicking LDDMMs](https://github.com/baubels/diffeomorphic_registration)
 - [Neural nets implemented from scratch using NumPy](https://github.com/baubels/numpynets)
 - [Quantised stock price prediction on microcontrollers with tensorflow lite](https://github.com/baubels/latency_champ)

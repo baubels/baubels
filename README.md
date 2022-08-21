@@ -10,7 +10,7 @@
 
 2021
 - [Infinitely iterated prisonner's dilemma games and memory-1 strategies](https://github.com/baubels/inf_itgames)
-- [Quantised stock price prediction on microcontrollers with tensorflow lite](https://github.com/baubels/latency_champ)
+- [Quantised stock price prediction on microcontrollers with tensorflow-lite micro](https://github.com/baubels/latency_champ)
 - [Portable farmer crop yield prediction using learnable dimensionality reductions](https://github.com/baubels/illinois-crop-yield)
 - [Learnable time-series dimensionality reductions with application to tropical cyclones](https://github.com/baubels/stuod_cyclone)
 

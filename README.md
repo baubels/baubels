@@ -15,7 +15,7 @@
 - [Learnable time-series dimensionality reductions with application to tropical cyclones](https://github.com/baubels/stuod_cyclone)
 
 2020
-- [A one-page no-prereq proof of Fermat's Last Theorem for the first case](https://github.com/baubels/flt3)
+- [A one-page no-prereq proof of Fermat's Last Theorem for the n = 3 case](https://github.com/baubels/flt3)
 
 <!--
 **baubels/baubels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

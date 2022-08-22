@@ -3,6 +3,7 @@
 #### Project Archive
 
 2022
+- [Neural net weight teleportations for improved training via loss invariant actions](https://github.com/baubels/gradient_teleportation)
 - [3D non-order specified image registration between shapes separated by diffeomorphisms via Resnet-LDDMMs](https://github.com/baubels/3d_diffeomorphic_nnets)
 - [Image registration between shapes separated by diffeomorphisms via Deep Neural ODEs mimicking LDDMMs](https://github.com/baubels/diffeomorphic_registration)
 - [Neural nets implemented from scratch using NumPy](https://github.com/baubels/numpynets)

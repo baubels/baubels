@@ -3,7 +3,7 @@
 #### Project Archive
 
 2022
-- [Teleporting neural net weights via loss-invariant actions to improve training speeds in Tensorflow](https://github.com/baubels/gradient_teleportation)
+- [Teleporting neural net weights via loss-invariant actions for non-convex leapings](https://github.com/baubels/gradient_teleportation)
 - [3D non-order specified image registration between shapes separated by diffeomorphisms via Resnet-LDDMMs](https://github.com/baubels/3d_diffeomorphic_nnets)
 - [Image registration between shapes separated by diffeomorphisms via Deep Neural ODEs mimicking LDDMMs](https://github.com/baubels/diffeomorphic_registration)
 - [Spectral Representations for Convolutional Neural Networks for use against adversarial attack and fine-grained tuning](https://github.com/baubels/fcnns)

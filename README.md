@@ -7,7 +7,7 @@
 - [3D non-order specified image registration between shapes separated by diffeomorphisms via Resnet-LDDMMs](https://github.com/baubels/3d_diffeomorphic_nnets)
 - [Image registration between shapes separated by diffeomorphisms via Deep Neural ODEs mimicking LDDMMs](https://github.com/baubels/diffeomorphic_registration)
 - [Spectral Representations for Convolutional Neural Networks for use against adversarial attack and fine-grained tuning](https://github.com/baubels/fcnns)
-- [Neural nets implemented from scratch using NumPy](https://github.com/baubels/numpynets)
+- [Neural nets implemented from scratch with NumPy](https://github.com/baubels/numpynets)
 - [Denoising school children correlations with unsupervised learning](https://github.com/baubels/unsupervised_porto)
 
 2021

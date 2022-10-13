@@ -9,6 +9,7 @@
 - [Spectral Representations for Convolutional Neural Networks for use against adversarial attack and fine-grained tuning](https://github.com/baubels/fcnns)
 - [Neural nets implemented from scratch with NumPy](https://github.com/baubels/numpynets)
 - [Denoising school children correlations with unsupervised learning](https://github.com/baubels/unsupervised_porto)
+- [Simple implentation of resnet18 in tensorflow](https://github.com/baubels/tf_resnets)
 
 2021
 - [Infinitely iterated prisonner's dilemma games and memory-1 strategies](https://github.com/baubels/inf_itgames)

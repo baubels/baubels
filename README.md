@@ -6,7 +6,7 @@
 - [Live webcam edge detection](https://github.com/baubels/live_edge_detection)
 - [Classical Stucture Adaptive Filtering](https://github.com/baubels/SAAFs)
 - [Non-convex teleporting neural nets via loss-invariant actions](https://github.com/baubels/gradient_teleportation)
-- [(3D) image registration between shapes separated by diffeomorphisms via Resnet-LDDMMs](https://github.com/baubels/3d_diffeomorphic_nnets)
+- [Learnable diffeomorphic registrations via LLDDM deep residual networks](https://github.com/baubels/diffeomorphic_registration)
 - [Spectral Representations for Convolutional Neural Networks for use against adversarial attack and fine-grained tuning](https://github.com/baubels/fcnns)
 - [Neural nets implemented from scratch with NumPy](https://github.com/baubels/numpynets)
 - [Denoising school children correlations with unsupervised learning](https://github.com/baubels/unsupervised_porto)

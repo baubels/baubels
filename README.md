@@ -6,7 +6,7 @@ Here I post some of my projects. I hope to add more as time comes.
 - [Non-convex teleporting neural nets via loss-invariant actions](https://github.com/baubels/gradient_teleportation)
 - [Learnable diffeomorphic registrations via LLDDM deep residual networks](https://github.com/baubels/diffeomorphic_registration)
 - [Fourier Convolutional Neural Networks](https://github.com/baubels/fcnns)
-- [Resnet18 implementation in tensorflow](https://github.com/baubels/tf_resnets)
+- [Resnet18 implementation in Tensorflow](https://github.com/baubels/tf_resnets)
 
 ##### Hackathons 💬 
 - [Algothon 2021 9th place submission part (quantised stock price prediction part)](https://github.com/baubels/latency_champ)

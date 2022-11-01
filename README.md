@@ -2,6 +2,7 @@ Welcome ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=baubels.vis
 Here I post some of my projects. I hope to add more as time comes.
 
 ##### Paper implementations 🌱
+- [Rotationally Equivariant CNNs](https://github.com/baubels/hnns)
 - [Classical Stucture Adaptive Filtering](https://github.com/baubels/SAAFs)
 - [Non-convex teleporting neural nets via loss-invariant actions](https://github.com/baubels/gradient_teleportation)
 - [Learnable diffeomorphic registrations via LLDDM deep residual networks](https://github.com/baubels/diffeomorphic_registration)

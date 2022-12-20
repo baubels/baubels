@@ -15,6 +15,7 @@ Here I post some of my projects. I hope to add more as time comes.
 - [STUOD 2021 2nd place submission (atmospheric event prediction)](https://github.com/baubels/stuod_cyclone)
 
 ##### Other 🔭
+- [Mini reinforcement learning library](https://github.com/baubels/reinforcement_learners)
 - [Mini image clustering library](https://github.com/baubels/image_clustering)
 - [Live webcam edge detection with classical filters](https://github.com/baubels/live_edge_detection)
 - [Neural nets implemented from scratch with NumPy](https://github.com/baubels/numpynets)
